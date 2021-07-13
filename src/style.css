@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'roboto';
+  src: url('./roboto-regular.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+body {
+  background-color: bisque;
+}
+
+.hello {
+  color: red;
+  background: url('./icon.png') no-repeat;
+  height: 360px;
+  font-family: 'roboto';
+}
