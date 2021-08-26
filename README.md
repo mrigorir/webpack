@@ -1,6 +1,6 @@
 # First Webpack approach
 
-> This is my very first intallation of webpack, where I got to know the basics of this amazing tool.## Prerequisites
+> This is my very first intallation of webpack, where I got to know the basics of this amazing tool.
 
 ## Getting Started
 
